@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, mi nombre es Patricio Cristaldo</h1>
-<h3 align="center">Soy estudiante de programación web Full Stack en Argentina </h3>
+<h3 align="center">Soy estudiante de programación web Full Stack en Argentina 😁</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S">via GIPHY</a></p>
 
 <h3 >En 2022 realice un curso intensivo con Digital House donde aprendí a programar desde 0 hasta lograr desarrollar una página web tipo e-commerce junto a algunos compañeros 👨‍💻
 </h3>

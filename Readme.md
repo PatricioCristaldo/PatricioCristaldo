@@ -10,6 +10,7 @@
 
 <h3 align="left">Contactarme:</h3>
 <p align="left">
+<a  href="https://icons8.com/icon/12580/email">Email</a> icon by <a href="https://icons8.com">Icons8</a>
 <a href="mailto:patricio_cristaldo@outlook.com">
 <img width="30" height="40" src="https://img.icons8.com/ios/50/new-post--v1.png" alt="new-post--v1"/>
 </a>

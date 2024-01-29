@@ -1,6 +1,4 @@
-<h1 align="center">Hola 👋, mi nombre es Patricio Cristaldo</h1>
-<h3 align="center">Soy estudiante de programación web Full Stack en Argentina 😁</h3>
-
+<h1 align="center">Full Stack Web Developer Jr</h1>
 
 <h3 >En 2022 realice un curso intensivo con Digital House donde aprendí a programar desde 0 hasta lograr desarrollar una página web tipo e-commerce junto a algunos compañeros 👨‍💻
 </h3>

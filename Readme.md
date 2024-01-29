@@ -11,6 +11,7 @@
 <h3 align="left">Contactarme:</h3>
 <p align="left">
 <a href="mailto:patricio_cristaldo@outlook.com">
+  <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="https://www.linkedin.com/in/patricio-cristaldo-programador-web-fullstack/" height="30" width="40" />
   <img src="icono-correo.png" alt="Correo electrónico" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/patricio-cristaldo-programador-web-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patricio-cristaldo-programador-web-fullstack/" height="30" width="40" /></a>

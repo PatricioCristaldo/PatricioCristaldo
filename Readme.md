@@ -3,6 +3,7 @@
 <h3 >En 2022 realice un curso intensivo con Digital House donde aprendí a programar desde 0 hasta lograr desarrollar una página web tipo e-commerce junto a algunos compañeros 👨‍💻
 </h3>
 <br>
+<h3>🌠Último proyecto realizado, página de tipo portfolio con REACT: https://patriciocristaldo.github.io/tp-final-2-react-utn/</h3>
 <h3>🌠Proyecto Integrador de Digital House (TiendArgenta) https://github.com/PatricioCristaldo/TiendArgenta-DH-</h3>
 <br>
 
